@@ -4,7 +4,7 @@ Hey Gophers! We're gonna build [Hugo](https://gohugo.io) with [Go Modules](https
 
 I gave this demo at my GopherPallooza 2018 Talk called ["Bringing Sanity to your Dependencies with Go Modules and Proxy Servers"](http://gopherpalooza.com/speakers#aaron_schlesinger).
 
-<script src="https://asciinema.org/a/205747.js" id="asciicast-205747" async></script>
+[![asciicast](https://asciinema.org/a/205747.png)](https://asciinema.org/a/205747)
 
 # Run The Demo
 
