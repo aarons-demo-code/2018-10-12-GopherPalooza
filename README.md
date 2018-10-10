@@ -13,7 +13,7 @@ Below is how how to do the demo yourself. The instructions are for Linux/Mac OS 
 You can do this anywhere on your system:
 
 ```
-$ git clone https://github.com/gohugoio/hugo.git
+$ git clone https://github.com/gohugoio/hugo.git && cd hugo
 ```
 
 ## Turn on Go Modules and Point to Athens
@@ -29,7 +29,7 @@ $ export GOPROXY=https://microsoftgoproxy.azurewebsites.net
 
 This will force `go` to ask Athens for all the dependencies. You have to run this with `sudo` because the Go toolchain restricts modules to read-only. It tries to keep dependencies immutable too :smile:.
 
-```cosole
+```console
 $ sudo rm -r $GOPATH/pkg/mod
 ```
 
