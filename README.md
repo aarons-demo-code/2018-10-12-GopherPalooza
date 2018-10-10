@@ -1,8 +1,6 @@
 # Building [Hugo](https://gohugo.io) with Go Modules and Athens :tada:
 
-Hey Gophers! We're gonna build [Hugo](https://gohugo.io) with [Go Modules](https://github.com/golang/go/wiki/Modules) and [Athens](https://docs.gomods.io).
-
-I gave this demo at my GopherPallooza 2018 Talk called ["Bringing Sanity to your Dependencies with Go Modules and Proxy Servers"](http://gopherpalooza.com/speakers#aaron_schlesinger).
+Hey Gophers! We're gonna build [Hugo](https://gohugo.io) with [Go Modules](https://github.com/golang/go/wiki/Modules) and [Athens](https://docs.gomods.io). I gave this demo at my GopherPallooza 2018 Talk called ["Bringing Sanity to your Dependencies with Go Modules and Proxy Servers"](http://gopherpalooza.com/speakers#aaron_schlesinger).
 
 [![asciicast](https://asciinema.org/a/205747.png)](https://asciinema.org/a/205747)
 
