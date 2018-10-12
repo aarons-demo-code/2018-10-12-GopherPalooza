@@ -16,12 +16,11 @@ You can do this anywhere on your system:
 $ git clone https://github.com/gohugoio/hugo.git && cd hugo
 ```
 
-## Turn on Go Modules and Point to Athens
+## Point to Athens
 
 This will make `go` talk to Athens for all its dependencies, not directly to the VCS:
 
 ```console
-$ export GO111MODULE=on
 $ export GOPROXY=https://microsoftgoproxy.azurewebsites.net
 ```
 
