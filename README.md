@@ -55,6 +55,6 @@ You can use Athens for any project that uses Go modules. Just set GOPROXY to htt
 
 But remember, that URL is an experimental Athens server for now. _I recommand that you don't rely on it for production code yet_.
 
-We'll announce a URL more stable soon. Meanwhile, if you want to run your _own_ Athens or learn more, check out docs.gomods.io!
+We'll announce a URL more stable soon. Meanwhile, if you want to run your _own_ Athens or learn more, check out https://docs.gomods.io!
 
 Keep on rockin', Gophers!
